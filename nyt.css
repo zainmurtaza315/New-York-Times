@@ -1,0 +1,12 @@
+.nyt-jumbo {
+  text-align: center;
+  align-items: center;
+}
+
+#border flex-column {
+  border: solid 10px black;
+}
+
+.cont {
+  border: 1px solid #dddddd;
+}
